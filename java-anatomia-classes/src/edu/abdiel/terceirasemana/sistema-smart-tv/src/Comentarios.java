@@ -1,5 +1,5 @@
 public class Comentarios {
-    main 
+
 
     public static void main(String[] args) {
         //Olá, eu sou um comentário em uma única linha
@@ -30,6 +30,10 @@ public class Comentarios {
  * dois numeros
  */
 
+}
+    
+
+
 public int somaMultiplica (int n, int x, String m){
     int r = 0; // r é igual ao resultado
     if (m == "M"){ //M = multiplicação
@@ -38,10 +42,10 @@ public int somaMultiplica (int n, int x, String m){
         //se não soma mesmo
         r = n + x;
     }
+
     return r;
 }
 
 
-    }
-    
+
 }
