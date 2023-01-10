@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MetodoScanner",
+            "request": "launch",
+            "mainClass": "MetodoScanner",
+            "projectName": "java-terminal_9fd0a6c4"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
