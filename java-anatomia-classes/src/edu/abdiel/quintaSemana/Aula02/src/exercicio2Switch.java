@@ -20,6 +20,8 @@ public class exercicio2Switch {
             default:
                 System.out.println("Valor indefinido");
         }
+
+        leitor.close();
     }
     
 }

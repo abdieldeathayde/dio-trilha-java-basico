@@ -24,7 +24,7 @@ public class Ex2_Nota {
             
         }
 
-        
+        scan.close();
     }
     
 }

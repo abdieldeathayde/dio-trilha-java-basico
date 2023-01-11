@@ -35,5 +35,7 @@ public class Ex4_ParEImpar {
         System.out.println("Qauntidade Par " + quantPares);
         System.out.println("Qauntidade Impar " + quantImpares);
 
+        scan.close();
+
     }
 }
