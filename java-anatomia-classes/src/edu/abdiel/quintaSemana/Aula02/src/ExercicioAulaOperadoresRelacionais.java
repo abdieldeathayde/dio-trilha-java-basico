@@ -11,7 +11,7 @@ public class ExercicioAulaOperadoresRelacionais {
         char c2 = 'y';
         String s1 = "Fulano";
         String s2 = "Fulano";
-        String s3 = "Cicrano";
+        // String s3 = "Cicrano";
         boolean b1 = true;
         boolean b2 = false;
 
