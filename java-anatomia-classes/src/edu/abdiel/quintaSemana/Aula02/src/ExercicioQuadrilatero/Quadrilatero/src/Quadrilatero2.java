@@ -1,11 +1,11 @@
 public class Quadrilatero2 {
     public static double area(double lado){
         //System.out.println("Área do quadrado: " + lado * lado);
-        return lado * lado;
+        return (lado * lado);
     }
 
-    public static void area(double lado1, double lado2){
-        System.out.println("Área do retângulo: " + lado1 * lado2);
+    public static double area(double lado1, double lado2){
+        return (lado1 * lado2);
     }
 
     public static double area(double baseMaior, double baseMenor, double altura){
